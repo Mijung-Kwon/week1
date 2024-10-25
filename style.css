@@ -1,0 +1,29 @@
+body {
+    margin: 30px;
+    font-size: 20px;
+    font-weight: bold
+}
+
+form {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.buttons {
+    margin: 2em;
+    font-size: 20px;
+}
+
+label {
+    padding-right: 1em;
+    padding-left: 1em
+}
+
+.has-error {
+    background-color: lightpink;
+    border: solid red 1px;
+}
+
+.numbers {
+    width: 11em;
+}
